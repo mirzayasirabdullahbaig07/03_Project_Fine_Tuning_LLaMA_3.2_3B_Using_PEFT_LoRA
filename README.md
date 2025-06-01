@@ -72,4 +72,6 @@ This project showcases how **parameter-efficient fine-tuning** with **LoRA** and
 **LinkedIn:** [linkedin.com/in/mirza-yasir-abdullah-baig](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
 **Email:** yasirabdullah4549@gmail.com  
 
+
 📌 This project was completed as part of the **Arch Technology Internship Advanced Task**.
+
